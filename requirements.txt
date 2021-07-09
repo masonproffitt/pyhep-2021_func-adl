@@ -1,3 +1,2 @@
-xrootd>=5.2.0
 func-adl-uproot>=1.5.0-rc.3
 matplotlib
